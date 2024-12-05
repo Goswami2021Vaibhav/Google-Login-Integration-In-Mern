@@ -1,6 +1,6 @@
 # How to Integrate Google Login in MERN Stack | Step-by-Step Guide with Source Code
 
-[![Google Login Integration](https://developergoswami.com/mystorage/media/f5743d96be8541.webp)
+[![Google Login Integration](https://developergoswami.com/mystorage/media/f5743d96be8541.webp)]
 
 Integrate Google Login in your MERN Stack application with ease!
 In this video, I’ll guide you step-by-step on how to implement Google OAuth for secure and seamless user authentication. Perfect for developers building modern web apps. 🚀
